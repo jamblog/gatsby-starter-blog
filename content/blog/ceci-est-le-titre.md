@@ -1,7 +1,7 @@
 ---
 title: Ceci est le titre
 date: 2020-09-22T22:00:00Z
-description: Une description pour les moteurs de recherche
+description: Ceci est le chapeau de l'article
 
 ---
 Ici j'écris mon article de blog
