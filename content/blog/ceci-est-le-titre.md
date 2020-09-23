@@ -8,6 +8,6 @@ Ici j'écris mon article de blog
 
 # Je peux mettre des titres
 
-[1c7yaUW](http://gph.is/1c7yaUW "1c7yaUW")
+![](/uploads/funny-dog-picture-of-a-corgi-dress-and-groomed-to-run-for-president.jpg)
 
 Au dessus j'ai mis une image de chien rigolo parce que je manque d'inspi
